@@ -1,0 +1,5 @@
+name: WelcomePlugin
+version: 1.0
+main: me.vertox.welcome.WelcomePlugin
+api-version: 1.21
+description: Show welcome text when player joins
